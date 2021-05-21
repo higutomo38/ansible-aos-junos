@@ -1,0 +1,5 @@
+[aos]
+172.20.120.3
+
+[aos:vars]
+ansible_python_interpreter=/Users/tomoyuki/.pyenv/shims/python
